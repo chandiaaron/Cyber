@@ -31,6 +31,7 @@
    - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/65740edfabe0bcc16f14f518abd399d6)
    - [Google - Connect and Protect: Networks and Network Security](https://coursera.org/share/3adb73bfec6e6a5804cb3c9836d89e5f)
    - [Google - Tools of the Trade: Linux and SQL](https://coursera.org/share/af6a1bc2120e33b9ff97169033a42035)
+   - [Google - Sound the Alarm: Detection and Response](https://coursera.org/share/f6c37f356ac0bc779b9b1fff97ade46c)
 
 - <b> HackerRank </b>
    - [HackerRank - Python (Basic)](https://www.hackerrank.com/certificates/fe0db3590261) 
